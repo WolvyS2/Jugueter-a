@@ -1,3 +1,3 @@
 # Toys - Juguetes
 Ejercicio - 
-Poner nombre de usuario y contraseña para PHPMailer
+Uso de PHPMailer para enviar correos.
